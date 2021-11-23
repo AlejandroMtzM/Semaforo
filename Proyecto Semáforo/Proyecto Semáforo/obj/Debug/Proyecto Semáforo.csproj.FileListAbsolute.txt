@@ -1,0 +1,20 @@
+C:\Users\USUARIO\Documents\Eduardo\Semestre 9no\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\bin\Debug\Proyecto Semáforo.exe.config
+C:\Users\USUARIO\Documents\Eduardo\Semestre 9no\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\bin\Debug\Proyecto Semáforo.exe
+C:\Users\USUARIO\Documents\Eduardo\Semestre 9no\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\bin\Debug\Proyecto Semáforo.pdb
+C:\Users\USUARIO\Documents\Eduardo\Semestre 9no\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\obj\Debug\Proyecto Semáforo.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\Eduardo\Semestre 9no\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\obj\Debug\Proyecto_Semáforo.Form1.resources
+C:\Users\USUARIO\Documents\Eduardo\Semestre 9no\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\obj\Debug\Proyecto_Semáforo.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Eduardo\Semestre 9no\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\obj\Debug\Proyecto Semáforo.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\Eduardo\Semestre 9no\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\obj\Debug\Proyecto Semáforo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Eduardo\Semestre 9no\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\obj\Debug\Proyecto Semáforo.exe
+C:\Users\USUARIO\Documents\Eduardo\Semestre 9no\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\obj\Debug\Proyecto Semáforo.pdb
+C:\Users\Marcos\Desktop\7mo Semestre\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\bin\Debug\Proyecto Semáforo.exe.config
+C:\Users\Marcos\Desktop\7mo Semestre\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\bin\Debug\Proyecto Semáforo.exe
+C:\Users\Marcos\Desktop\7mo Semestre\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\bin\Debug\Proyecto Semáforo.pdb
+C:\Users\Marcos\Desktop\7mo Semestre\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\obj\Debug\Proyecto Semáforo.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\7mo Semestre\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\obj\Debug\Proyecto_Semáforo.Form1.resources
+C:\Users\Marcos\Desktop\7mo Semestre\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\obj\Debug\Proyecto_Semáforo.Properties.Resources.resources
+C:\Users\Marcos\Desktop\7mo Semestre\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\obj\Debug\Proyecto Semáforo.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\7mo Semestre\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\obj\Debug\Proyecto Semáforo.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\7mo Semestre\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\obj\Debug\Proyecto Semáforo.exe
+C:\Users\Marcos\Desktop\7mo Semestre\Sistemas programables\Proyecto Semáforo\Proyecto Semáforo\obj\Debug\Proyecto Semáforo.pdb
